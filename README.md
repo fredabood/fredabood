@@ -1,4 +1,4 @@
-# **👋 Hi, I'm ::Fred::.**
+# **👋 Hi, I'm Fred.**
 
 I'm a proven sales engineer, based in Chicago, adept at delivering value for large enterprises. I’m an experienced data professional with a demonstrated history of designing well architected data systems and unlocking actionable business insights from Big Data
 
@@ -6,7 +6,7 @@ Besides having a full time career in the tech industry, I love food, art, travel
 
 ---
 
-## **::Follow Me on::**
+## **Follow Me on**
 
 [Instagram](https://instagram.com/fredabood)
 
