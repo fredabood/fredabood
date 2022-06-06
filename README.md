@@ -6,18 +6,12 @@ Besides having a full time career in the tech industry, I love food, art, travel
 
 ---
 
-## **Follow Me on**
+## **Follow Me**
 
 [Instagram](https://instagram.com/fredabood)
 
 [LinkedIn](https://linkedin.com/in/fredabood)
 
 [GitHub](https://github.com/fredabood)
-
-[Medium](https://medium.com/@fredabood)
-
-[Snapchat](https://www.snapchat.com/add/fredabood)
-
-[TikTok](Https://tiktok.com/@fredabood)
 
 ---
