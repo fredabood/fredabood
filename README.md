@@ -1,16 +1,23 @@
-### Hi there 👋
+# **👋 Hi, I'm ::Fred::.**
 
-<!--
-**fredabood/fredabood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a proven sales engineer, based in Chicago, adept at delivering value for large enterprises. I’m an experienced data professional with a demonstrated history of designing well architected data systems and unlocking actionable business insights from Big Data
 
-Here are some ideas to get you started:
+Besides having a full time career in the tech industry, I love food, art, travel, and spending time with my family. I’m a life long learner with a passion for learning and teaching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **::Follow Me on::**
+
+[Instagram](https://instagram.com/fredabood)
+
+[LinkedIn](https://linkedin.com/in/fredabood)
+
+[GitHub](https://github.com/fredabood)
+
+[Medium](https://medium.com/@fredabood)
+
+[Snapchat](https://www.snapchat.com/add/fredabood)
+
+[TikTok](Https://tiktok.com/@fredabood)
+
+---
